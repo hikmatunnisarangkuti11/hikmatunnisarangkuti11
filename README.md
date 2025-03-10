@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hikmatunnisa Rangkuti</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmatunnisarangkuti11&label=Profile%20views&color=0e75b6&style=flat" alt="hikmatunnisarangkuti11" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmatunnisarangkuti11&label=Profile%20views&color=0e75b6&style=flat" alt="hikmatunnisarangkuti11" /> </p>
+ -->
 - 💬 Ask me about **python, php, basis data**
 
 - 📫 How to reach me **hikmatunnisa72@gmail.com**
