@@ -10,152 +10,95 @@
 <p align="left">
 
 </p>
-# Como personalizar o seu perfil no github!
+ 
+ ![Hi There, I am Meghna Srivastaa](https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
+ 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MeghnaS21)
 
-## Introdução
+**CONNECT WITH ME**
 
-Oie gente! Sejam bem vindos a mais um roteiro de vídeo do [meu canal](https://youtube.com/rafaellaballerini), eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como personalizar o seu perfil no github.
 
-Caso você ainda não esteja familiarizado ou familizarizada com Git e Github, vou deixar aqui o [vídeo em que explico o que são essas duas tecnologias](https://www.youtube.com/watch?v=DqTITcMq68k) e o [vídeo de como utilizá-las](https://www.youtube.com/watch?v=UBAX-13g8OM).
 
-Então vamos lá, hoje vou ensinar a deixar o perfil de vocês bem parecido com o [meu](https://github.com/rafaballerini) e também disponibilizar customizações adicionais que vocês ainda podem fazer.
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Meu perfil personalizado no Github](https://media.discordapp.net/attachments/831974152667398214/859101524118208543/unknown.png?width=1225&height=670)
+<!-- display the social media buttons in your README -->
 
-## Configurações gerais do perfil
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
-A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
 
-Não é nem pelo fato dos direitos autorais em si, mas sim pela credibilidade que você irá passar para quem entrar no seu perfil.
 
-Depois iremos configurar as informações do nosso perfil que aparecem no canto esquerdo, pois por mais que elas sejam padrão, grade parte das pessoas que forem olhar o seu perfil vão focar nessa parte, pois mostra de onde você trabalha, para qual empresa, qual seu email de contato e muito mais.
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
+<!-- icons with padding -->
 
-![Edit profile](https://media.discordapp.net/attachments/831974152667398214/859115292369616946/unknown.png)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-Em seguida, completaremos com as informações que acharmos necessárias para algum outro desenvolvedor ou mesmo um recrutador olhar e entender quem você é.
+<!-- icons without padding -->
 
-Na bio por exemplo coloquei `Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e tecnologia!`. Então você pode completar com seu cargo ou o que estuda.
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-Abaixo você adiciona a empresa que trabalha atualmente, sua localização, email de contato, link da sua página web (caso tenha) e seu twitter.
 
-Você pode notar também que existem algumas outras informações abaixo dessas, porém se referem às organizações da [nossa comunidade do discord](https://discord.gg/G9GPg5SA75) ou da empresa que trabalho.
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
 
-## Criação do repositório do perfil
+[1]: https://twitter.com/MeghnaS21
+[2]: https://www.facebook.com/meghna.srivastava.102/
+[3]: https://www.linkedin.com/in/meghna-srivastava-34571b172/
+[6]: https://github.com/MeghnaS21
+[7]: https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg
 
-Agora vamos para o que interessa, que é a personalização do nosso perfil.
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently practicing problem solving like a MAFIA.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with Competitive Coding.
+- 💬 Ask me about Software Engineering, How to get a job in service bases, any Tech realed stuff.
+- 📫 How to reach me:  **meghnasrivastava2000@gmail.com**
+- 😄 Pronouns: Her/She.
+- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
 
-Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
+[![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=dracula)](https://github.com/MeghnaS21/github-readme-stats)
 
-![Repositório especial](https://media.discordapp.net/attachments/831974152667398214/859295509894529064/unknown.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&size_weight=0.5&count_weight=0.5)](https://github.com/MeghnaS21/github-readme-stats)
 
-Deixe-o público e inicialize ele com o `README.md`.
+![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/github/followers/MeghnaS21?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/MeghnaS21?label=Stars&style=plastic">
+### Languages and Tools:
 
-## O que é markdown e como funciona
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<!-- <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+ -->
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 
-Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+## Watch snake eating my github contributions 
+ 
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
-https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
-
-## Escrevendo o básico
-
-## Github Stats e diferentes formatos para ele
-
-Github Stats
-https://github.com/anuraghazra/github-readme-stats
-
-## Badges das tecnologias
-
-https://devicon.dev/
-
-## Links para redes sociais
-
-https://dev.to/envoy_/150-badges-for-github-pnk
-
-## Gif
-
-https://picrew.me/image_maker/338224
-
-## Cobrinha
-
-https://www.instagram.com/p/CPjUBhXDNEE/
-
-## Exemplos de repositórios e outras ideias
-
-SIMBOLOS
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://dev.to/envoy_/150-badges-for-github-pnk
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
-
-Youtube
-https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
-
-Descritivo
-https://github.com/garimasingh128/garimasingh128
-https://github.com/Defcon27/Defcon27
-https://github.com/onimur/onimur
-https://github.com/Rishit-dagli/Rishit-dagli
-https://github.com/bornmay/bornmay
-https://github.com/PrincessAkira/PrincessAkira ANIME
-
-Tecnologias
-https://github.com/techytushar/techytushar
-
-Código
-https://github.com/anmol098/anmol098
-
-Arte própria
-https://github.com/stephenajulu/stephena
-julu
-https://github.com/DennisHartrampf/DennisHartrampf
-
-Gifs
-https://github.com/ari-hacks/ari-hacks
-https://github.com/Prince-Shivaram/Prince-Shivaram
-https://github.com/Shanu1515/Shanu1515
-
-Digitação
-https://github.com/CyrisXD/CyrisXD
-https://github.com/mmphego/mmphego
-
-Minimalistas
-https://github.com/caneco/
-https://github.com/pr2tik1/pr2tik1
-
-Ferramentas
-
-To do list
-https://github.com/abhisheknaiidu/todoist-readme
-
-Dev time
-https://github.com/athul/waka-readme
-
-Spotify
-https://github.com/kittinan/spotify-github-profile
-https://github.com/novatorem/novatorem
-
-Linkedin
-https://github.com/soroushchehresa/github-readme-linkedin
-
-Stackoverflow
-https://github.com/omidnikrah/github-readme-stackoverflow
-
-Dev Jokes
-https://github.com/ABSphreak/readme-jokes
-
-Trofeus
-https://github.com/ryo-ma/github-profile-trophy
-
-Twitter
-https://github.com/gazf/github-readme-twitter
-
-Meme aleatorio
-https://github.com/techytushar/random-memer
-
-Quotes
-https://github.com/PiyushSuthar/github-readme-quotes
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
