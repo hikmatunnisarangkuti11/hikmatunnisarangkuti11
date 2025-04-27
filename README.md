@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmatunnisarangkuti11&show_icons=true&locale=en&layout=compact" alt="hikmatunnisarangkuti11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmatunnisarangkuti11&show_icons=true&locale=en" alt="hikmatunnisarangkuti11" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmatunnisarangkuti11&" alt="hikmatunnisarangkuti11" /></p>
