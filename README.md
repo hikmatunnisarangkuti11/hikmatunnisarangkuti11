@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://github.com/hikmatunnisarangkuti11">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmatunnisarangkuti11&layout=compact&langs_count=8&bg_color=d63384&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikmatunnisarangkuti11&show_icons=true&bg_color=d63384&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmatunnisarangkuti11&background=d63384&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="hikmatunnisarangkuti11" />
   </a>
 </p>
 
